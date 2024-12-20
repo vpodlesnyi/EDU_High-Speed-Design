@@ -1,5 +1,6 @@
 Record=TopLevelDocument|FileName=EDU_High-Speed-Design_Overview.SchDoc|SheetNumber=2
-Record=SheetSymbol|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|Designator=Ethernet|SchDesignator=Ethernet|FileName=EDU_High-Speed-Design_Ethernet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=EDU_High-Speed-Design_Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|Designator=Ethernet|SchDesignator=Ethernet|FileName=EDU_High-Speed-Design_Ethernet.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=EDU_High-Speed-Design_Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|Designator=Flash|SchDesignator=Flash|FileName=EDU_High-Speed-Design_Flash.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=EDU_High-Speed-Design_Flash.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|FileName=EDU_High-Speed-Design_IO.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|FileName=EDU_High-Speed-Design_MCU.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|FileName=EDU_High-Speed-Design_Power.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=EDU_High-Speed-Design_Overview.SchDoc|FileName=EDU_High-Speed-Design_Title.SchDoc|SheetNumber=1
