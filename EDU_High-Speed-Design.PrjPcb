@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KIOMMJTA
 
 [Document3]
-DocumentPath=SCH\EDU_High-Speed-Design_Power.SchDoc
+DocumentPath=SCH\EDU_High-Speed-Design_Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,6 +271,23 @@ DocumentUniqueId=
 
 [Document14]
 DocumentPath=SCH\EDU_High-Speed-Design_Ethernet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=SCH\EDU_High-Speed-Design_Flash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
