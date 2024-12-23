@@ -356,6 +356,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BRZXRQRI
 
 [Document19]
+DocumentPath=SCH\EDU_High-Speed-Design_CPU_Ethernet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HUSHTJTK
+
+[Document20]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Uart.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIWQITCY
 
-[Document20]
+[Document21]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Audio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWDAPBN
 
-[Document21]
+[Document22]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUPZGHSK
 
-[Document22]
+[Document23]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Unused.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATLTSECP
 
-[Document23]
+[Document24]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLLOCJDG
 
-[Document24]
+[Document25]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Uart.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,8 +491,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Audio.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
+DocumentPath=SCH\EDU_High-Speed-Design_CPU_Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
