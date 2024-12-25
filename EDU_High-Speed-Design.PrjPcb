@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KIOMMJTA
 
 [Document3]
+DocumentPath=SCH\EDU_High-Speed-Design_Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMFKADUU
+
+[Document4]
 DocumentPath=SCH\EDU_High-Speed-Design_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVLWVDNU
 
-[Document4]
+[Document5]
 DocumentPath=SCH\EDU_High-Speed-Design_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPIDBEJY
 
-[Document5]
+[Document6]
 DocumentPath=SCH\EDU_High-Speed-Design_Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,23 +150,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JZEUIRHQ
-
-[Document6]
-DocumentPath=SCH\EDU_High-Speed-Design_MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ETULRSQP
 
 [Document7]
 DocumentPath=OUTJOB\EDU_High-Speed-Design.OutJob
@@ -850,6 +850,23 @@ DocumentUniqueId=
 
 [Document48]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SPI_I2C.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document49]
+DocumentPath=SCH\EDU_High-Speed-Design_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
