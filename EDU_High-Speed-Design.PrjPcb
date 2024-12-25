@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KIOMMJTA
 
 [Document3]
+DocumentPath=SCH\EDU_High-Speed-Design_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NZCEIHOI
+
+[Document4]
 DocumentPath=SCH\EDU_High-Speed-Design_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMFKADUU
 
-[Document4]
+[Document5]
 DocumentPath=SCH\EDU_High-Speed-Design_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVLWVDNU
 
-[Document5]
+[Document6]
 DocumentPath=SCH\EDU_High-Speed-Design_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPIDBEJY
 
-[Document6]
+[Document7]
 DocumentPath=SCH\EDU_High-Speed-Design_Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JZEUIRHQ
 
-[Document7]
+[Document8]
 DocumentPath=OUTJOB\EDU_High-Speed-Design.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=LIB\EDU_High-Speed-Design.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=LIB\EDU_High-Speed-Design.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOTTHFJG
 
-[Document10]
+[Document11]
 DocumentPath=BOM\EDU_High-Speed-Design.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=DRAFTSMAN\EDU_High-Speed-Design_ASM.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTFEYWNT
 
-[Document12]
+[Document13]
 DocumentPath=DRAFTSMAN\EDU_High-Speed-Design_PCB.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQHWDOVR
 
-[Document13]
+[Document14]
 DocumentPath=PCB\EDU_High-Speed-Design.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=SCH\EDU_High-Speed-Design_MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=SCH\EDU_High-Speed-Design_Flash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=SCH\EDU_High-Speed-Design_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHWJFWDU
 
-[Document17]
+[Document18]
 DocumentPath=SCH\EDU_High-Speed-Design_Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=SCH\EDU_High-Speed-Design_LED.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRZXRQRI
 
-[Document20]
+[Document21]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEIOSORN
 
-[Document21]
+[Document22]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SD-Card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWHDCQLP
 
-[Document22]
+[Document23]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_MMC-Card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XIPWDHWT
 
-[Document23]
+[Document24]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SPI_I2C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYPPVSYA
 
-[Document24]
+[Document25]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUSHTJTK
 
-[Document25]
+[Document26]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUSHTJTL
 
-[Document26]
+[Document27]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_HDMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDFXUSKH
 
-[Document27]
+[Document28]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_PCIe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUVWBSDP
 
-[Document28]
+[Document29]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGXHWKFW
 
-[Document29]
+[Document30]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SATA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJIAWHNA
 
-[Document30]
+[Document31]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Uart.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIWQITCY
 
-[Document31]
+[Document32]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Audio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWDAPBN
 
-[Document32]
+[Document33]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUPZGHSK
 
-[Document33]
+[Document34]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Unused.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATLTSECP
 
-[Document34]
+[Document35]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLLOCJDG
 
-[Document35]
+[Document36]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Uart.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Audio.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_HDMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SATA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_LVDS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_PCIe.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_DDR3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=SCH\EDU_High-Speed-Design_DDR3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SD-Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_MMC-Card.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document49]
 DocumentPath=SCH\EDU_High-Speed-Design_CPU_SPI_I2C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,8 +882,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document50]
 DocumentPath=SCH\EDU_High-Speed-Design_Connectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=SCH\EDU_High-Speed-Design_Power_3V3_1V375.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SZPGYOGV
+
+[Document52]
+DocumentPath=SCH\EDU_High-Speed-Design_Power_3V3_1V375.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
