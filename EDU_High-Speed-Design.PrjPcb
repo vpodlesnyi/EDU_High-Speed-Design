@@ -184,7 +184,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CCXPIICN
 
 [Document9]
 DocumentPath=LIB\EDU_High-Speed-Design.SchLib
